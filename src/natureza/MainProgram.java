@@ -28,6 +28,7 @@ public class MainProgram {
 		
 		c.locomover();
 		k.emitirSom();
+		k.reagir("Vai apanhar!");
 		
 	}
 
